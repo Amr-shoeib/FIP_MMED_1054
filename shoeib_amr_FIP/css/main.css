@@ -345,7 +345,7 @@ textarea{
 	grid-column: 1/11;
 	position: relative;
 	background: url(../images/hero-img.jpg);
-	margin: auto; 
+	margin-top: -55px;
 	
 
 }
