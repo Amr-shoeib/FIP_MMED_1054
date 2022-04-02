@@ -96,26 +96,30 @@ We center the box using margin 0 auto and give it a fixed width of 920 + 20px + 
 #mainNav {
 	grid-column: 5/11;
 	font-size: 18px;
+	
 }
 
 #mainNav ul {
 	list-style: none;
 	margin-top: 50px;
+	
 }
 
 #mainNav ul li {
 	display: inline;
-	margin-left: 40px;
+	margin-left: 30px;
+	
 }
 
 #mainNav ul li a {
 	color: rgb(58, 58, 58);
+	padding: 5px;
 }
 
 #mainNav ul li a:hover{
 	color: #ffffff;
 	background-color: #caa867;
-	padding: 8px;
+	padding: 5px;
 	
 	
 	
