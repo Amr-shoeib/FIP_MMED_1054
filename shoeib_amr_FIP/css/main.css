@@ -219,6 +219,22 @@ main {
 	top: 11px;
 }
 
+.gallery-headline{
+	color: #caa867;
+	font-size: 60px;
+	position: absolute;
+	right: 700px;
+	top: -40px;
+	
+}
+
+.salad-plate{
+	position: absolute;
+	top: 150px;
+	left: -33px;
+}
+
+
 .hero-txt{
 	font-size:60px;
 	margin-left: 22px;
