@@ -7,7 +7,7 @@
 	color: #fff;
 	text-align: left;
 	margin: 0;
-	background-color: rgb(0, 0, 0);
+	background-color: rgba(0, 0, 0, 0);
 	
 }
 
@@ -601,9 +601,10 @@ input[type=text] {
 	}
 
 #MainGallery{
-	padding-top: 20px;
-     padding-left: 20px;
+	padding-top: 44px;
+     padding-left: 44px;
      padding-right: 20px;
+	 padding-bottom: 33px;
 	 grid-column: 1/10;
 	 display: grid;
 	 grid-template-columns:1fr 1fr;
@@ -611,12 +612,23 @@ input[type=text] {
 	 gap: 15px;
 	 align-content: center;
 	 color: #333;
+	 margin-top: -66px;
+	 border-style: dashed;
+	 position: relative;
+	 right: 7px;
  }
 .gallery-Image h3{
-	margin-bottom: 0px;
+	margin-bottom: 11px;
 	color: #550d13;
 	margin-top: auto;
 	line-height: 22px;
+	background-color: #caa867;
+	width: fit-content;
 }
 
+.gallery-headline{
+	font-size: 77px;
+	position: absolute;
+	left: -370px;
 	
+}	
