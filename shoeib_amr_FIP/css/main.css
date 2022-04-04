@@ -599,3 +599,24 @@ input[type=text] {
 		color: #fff;
 		border-radius: 5px;
 	}
+
+#MainGallery{
+	padding-top: 20px;
+     padding-left: 20px;
+     padding-right: 20px;
+	 grid-column: 1/10;
+	 display: grid;
+	 grid-template-columns:1fr 1fr;
+	 grid-template-rows: auto;
+	 gap: 15px;
+	 align-content: center;
+	 color: #333;
+ }
+.gallery-Image h3{
+	margin-bottom: 0px;
+	color: #550d13;
+	margin-top: auto;
+	line-height: 22px;
+}
+
+	
