@@ -7,7 +7,7 @@
 	color: #fff;
 	text-align: left;
 	margin: 0;
-	background-color: rgb(0, 0, 0);
+	background-color: rgba(0, 0, 0, 0);
 	
 }
 
@@ -415,7 +415,7 @@ color: #333;
 	/* Remove as content will dictate height */
 	height: 320px;
 	position: relative;
-	top: 22px;
+	top: 44px;
 }
 
 
