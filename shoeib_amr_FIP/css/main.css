@@ -521,11 +521,10 @@ font-size: 25px;
 
 
 .mainFooter{
-    height: 200px;
+    height: auto;
 	width: 920px;
     background-color: #caa867;
 	position: relative;
-    
     margin-top: 20px;
 }
 
@@ -533,9 +532,7 @@ font-size: 25px;
 .logoFooter{
     margin-top: 25px;
     margin-bottom: 20px;
-	position: relative;
 	left: -9px;
-	
 	
 }
 
@@ -545,7 +542,8 @@ font-size: 25px;
     margin-top: 28px;
     justify-self: end;
 	position: absolute;
-	bottom: 33px;
+	bottom: 13px;
+	right: 100px;
 	
 }
 
@@ -581,7 +579,7 @@ font-size: 25px;
 	display: inline-block;
 	position: absolute;
 	right:33px;
-	top: 80%;
+	top: 25%;
 }
 
 input[type=text] {
@@ -614,16 +612,24 @@ input[type=text] {
 	 color: #333;
 	 margin-top: -66px;
 	 border-style: dashed;
+	 border-right: #333;
+	 border-top: #333;
+	 border-bottom: #333;
 	 position: relative;
 	 right: 7px;
+	 background-color: beige;
+	 height: auto;
+	 
  }
 .gallery-Image h3{
 	margin-bottom: 11px;
-	color: #550d13;
+	color: #ffffff;
 	margin-top: auto;
 	line-height: 22px;
-	background-color: #caa867;
-	width: fit-content;
+	background-color: #550d13;
+	width: 150px;
+	align-content: center;
+	text-align: center;
 }
 
 .gallery-headline{
