@@ -580,19 +580,17 @@ margin-bottom: 7px;
 
 .Recipe-headline
 {
-position: absolute;
+margin-top: -44px;
+margin-left: 177px;
 bottom: 282px;
-left: 190px;
+left: 366px;
 font-weight: normal;
 font-size: 25px;
 
 }
 
 .directions{
-
-	position: absolute;
-	top: 0px;
-	left: 130px;
+	
 	color: rgb(53, 51, 51);
 	font-size: 25px;
 	padding: 5px;
@@ -603,15 +601,17 @@ font-size: 25px;
 
 .Body_txt{
 	line-height:20px;
-	word-spacing: 1px;
+	word-spacing: 0px;
+	margin-top: px;
+	
 }
 
-.plate{
+.plate-img{
 	margin-bottom:0px;
-	margin-top: 0px;
+	margin-top: -44px;
 	margin-left: 55px;
-	position: absolute;
-	top: 155px;
+	
+	padding: 5px;
 	
 }
 
