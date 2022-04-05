@@ -97,17 +97,20 @@ We center the box using margin 0 auto and give it a fixed width of 920 + 20px + 
 	grid-column: 5/11;
 	font-size: 18px;
 	
+	
+	
 }
 
 #mainNav ul {
 	list-style: none;
 	margin-top: 50px;
 	
+	
 }
 
 #mainNav ul li {
 	display: inline;
-	margin-left: 30px;
+	margin-left: 10px;
 	
 }
 
@@ -120,6 +123,7 @@ We center the box using margin 0 auto and give it a fixed width of 920 + 20px + 
 	color: #ffffff;
 	background-color: #caa867;
 	padding: 5px;
+	
 	
 	
 	
@@ -506,7 +510,6 @@ font-size: 25px;
 	font-weight: normal;
     height: auto;
 	
-	
 }
 
 .Body_txt{
@@ -520,10 +523,6 @@ font-size: 25px;
 	margin-left: 55px;
 	position: absolute;
 	top: 155px;
-	
-
-	
-
 	
 }
 
