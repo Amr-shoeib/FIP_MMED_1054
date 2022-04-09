@@ -381,7 +381,7 @@ color: #333;
 }
 
 
-#grilled_chicken {
+#mahshi_plate {
 	grid-column: 4/8;
 	/* Remove as content will dictate height */
 	height: 250px;
@@ -389,7 +389,7 @@ color: #333;
 	
 }
 
-.title-grilled-chicken{
+.Mahshi-plate{
 	background-color: antiquewhite;
 	padding: 4px;
 	margin-top: 1px;
@@ -397,7 +397,7 @@ color: #333;
 	text-align: center;
 }
 
-#yougert {
+#popular-recipes {
 	grid-column: 8/11;
 	/* Remove as content will dictate height */
 	height: 250px;
@@ -405,7 +405,7 @@ color: #333;
 	size-adjust: 90%;
 }
 
-.yougert-titel{
+.Sambousek-titel{
 	font-size: 16px;
 	width: 256px;
 	padding: 4px;
