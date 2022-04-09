@@ -198,8 +198,11 @@ main {
 	height: 630px;
 	position: relative;
 	
+}
 
-	
+.title-style{
+	font-weight: lighter;
+	font-weight: normal;
 }
 
 #contactRight {
@@ -207,6 +210,7 @@ main {
 	/* Remove as content will dictate height */
 	height: 630px;
 	position: relative;
+	margin-bottom: 77px;
 	
 }
 
@@ -229,14 +233,15 @@ main {
 	font-size: 60px;
 	position: absolute;
 	right: 700px;
-	top: -40px;
+	top:35x;
+	
 	
 }
 
-.salad-plate{
+.riceAndbeef{
 	position: absolute;
-	top: 150px;
-	left: -33px;
+	top: 200px;
+	left: 0px;
 }
 
 
