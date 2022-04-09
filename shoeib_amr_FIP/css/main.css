@@ -224,7 +224,7 @@ main {
 	padding: 30px;
 	margin: 0 auto;
 	position: absolute;
-	left:0px;
+	left:-26px;
 	top: 11px;
 }
 
@@ -233,7 +233,7 @@ main {
 	font-size: 60px;
 	position: absolute;
 	right: 700px;
-	top:35x;
+	top:5px;
 	
 	
 }
@@ -269,6 +269,7 @@ textarea{
 	padding: 10px 15px ;
 	text-align: center;
 	font-size: 15px;
+	
 }
 
 
@@ -367,7 +368,7 @@ textarea{
 	width: 242px;
 	padding: 4px;
 	text-align: center;
-	background-color: antiquewhite;
+	background-color: #f5ecdb;
 	margin-top: 1px;
 	color: #333;
 }
@@ -390,7 +391,7 @@ color: #333;
 }
 
 .Mahshi-plate{
-	background-color: antiquewhite;
+	background-color: #f5ecdb;
 	padding: 4px;
 	margin-top: 1px;
 	width: 337px;
@@ -402,7 +403,7 @@ color: #333;
 	/* Remove as content will dictate height */
 	height: 250px;
 	margin-top: -44px;
-	size-adjust: 90%;
+	
 }
 
 .Sambousek-titel{
@@ -410,7 +411,7 @@ color: #333;
 	width: 256px;
 	padding: 4px;
 	text-align: center;
-	background-color: antiquewhite;
+	background-color: #f5ecdb;
 	margin-top: 1px;
 	color: #333;
 
@@ -725,7 +726,7 @@ input[type=text] {
 	 border-bottom: #333;
 	 position: relative;
 	 right: 7px;
-	 background-color: beige;
+	 background-color: #f5ecdb;
 	 height: auto;
 	 
  }
