@@ -303,14 +303,14 @@ textarea{
 	
 }
 
-.lasagne{
+.potato-beef{
 	margin-left: 5px;
-	position: relative;
+	margin-top: 44px;
 	height: auto;
 	
 }
 
-.pasta-salad{
+.mahshi{
 	position: absolute;
 
 	top:426px;
@@ -322,10 +322,11 @@ textarea{
 	border-style:solid ;
 	border-width:5px; 
 	border-color: #caa867;
+	margin-left: 15px;
 	
 }
 
-.chicken-mashroum{
+.Dolma-ingredients{
 	position: absolute;
 	bottom:0px;
 	left: 0px;
