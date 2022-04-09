@@ -198,8 +198,11 @@ main {
 	height: 630px;
 	position: relative;
 	
+}
 
-	
+.title-style{
+	font-weight: lighter;
+	font-weight: normal;
 }
 
 #contactRight {
@@ -207,6 +210,7 @@ main {
 	/* Remove as content will dictate height */
 	height: 630px;
 	position: relative;
+	margin-bottom: 77px;
 	
 }
 
@@ -229,14 +233,15 @@ main {
 	font-size: 60px;
 	position: absolute;
 	right: 700px;
-	top: -40px;
+	top:35x;
+	
 	
 }
 
-.salad-plate{
+.riceAndbeef{
 	position: absolute;
-	top: 150px;
-	left: -33px;
+	top: 200px;
+	left: 0px;
 }
 
 
@@ -303,14 +308,14 @@ textarea{
 	
 }
 
-.lasagne{
+.potato-beef{
 	margin-left: 5px;
-	position: relative;
+	margin-top: 44px;
 	height: auto;
 	
 }
 
-.pasta-salad{
+.mahshi{
 	position: absolute;
 
 	top:426px;
@@ -322,10 +327,11 @@ textarea{
 	border-style:solid ;
 	border-width:5px; 
 	border-color: #caa867;
+	margin-left: 15px;
 	
 }
 
-.chicken-mashroum{
+.Dolma-ingredients{
 	position: absolute;
 	bottom:0px;
 	left: 0px;
